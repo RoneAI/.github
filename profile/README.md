@@ -12,10 +12,5 @@ Empowering innovation through AI, web, and open technologies.
 ## Vision
 To bridge Indonesia’s identity with global technology innovation, delivering solutions that are elegant, compliant, and future-ready.
 
-## Connect
-- Website: [rone.dev](https://rone.dev)  
-- LinkedIn: [RoneAI](https://www.linkedin.com/company/roneai)  
-- Email: hello@rone.dev  
-
 ---
 *Empowering innovation through AI, web, and open technologies.*
